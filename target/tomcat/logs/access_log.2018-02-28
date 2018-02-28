@@ -10,3 +10,7 @@
 0:0:0:0:0:0:0:1 - - [28/Feb/2018:13:02:23 +0800] "GET / HTTP/1.1" 200 83 http-bio-8080-exec-10 555
 0:0:0:0:0:0:0:1 - - [28/Feb/2018:13:02:28 +0800] "GET /newblog/ HTTP/1.1" 404 967 http-bio-8080-exec-10 2
 0:0:0:0:0:0:0:1 - - [28/Feb/2018:13:02:34 +0800] "GET /newblog/query HTTP/1.1" 404 977 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [28/Feb/2018:13:05:16 +0800] "GET /newblog/query HTTP/1.1" 200 13523 http-bio-8080-exec-1 2035
+0:0:0:0:0:0:0:1 - - [28/Feb/2018:13:05:20 +0800] "GET /newblog/ HTTP/1.1" 200 83 http-bio-8080-exec-2 558
+0:0:0:0:0:0:0:1 - - [28/Feb/2018:13:06:04 +0800] "GET /order HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [28/Feb/2018:17:27:01 +0800] "GET /blog/arimages/747d058f-8f57-4db8-87d9-83bb0f0bfd86.jpg HTTP/1.1" 404 - http-bio-8080-exec-5 0
