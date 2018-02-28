@@ -1,0 +1,5 @@
+com\boke\serviceimpl\BlogArticleServiceimpl.class
+com\boke\service\BaseService.class
+com\boke\pojo\BlogArticle.class
+com\boke\controller\BLogArticleController.class
+com\boke\dao\BlogArticleMapper.class
